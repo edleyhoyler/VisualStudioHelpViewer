@@ -5,8 +5,9 @@ Create installation disk offline
 Help Viewer 2.2 for Visual Studio 2015
 <br/>
 ![HelpViewer.png](https://github.com/edleyrocha/VisualStudioHelpViewer/blob/master/Visual%20Studio%202015/HelpViewer.png)
-#### IDE
-* Visual Studio 2015 Update 3 (Trial)
+#### It works with:
+* Microsoft Visual Studio 2015                (Tested)
+* Microsoft SQL Server Management Studio 2016 (Tested)
 <br/>
 
 #### Language List
