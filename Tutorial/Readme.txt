@@ -29,9 +29,10 @@ Open it in Notepad and Comment lines:
 
 
 Replace all 
-"../../../serviceapi/catalogs/dev14"   by "DocumentsENG/"
-"http://packages.mtps.microsoft.com/"  by "DocumentsENG/"
-"../../../serviceapi/packages/"        by "DocumentsENG/"
+"../../../serviceapi/catalogs/dev14"       by "DocumentsENG/"
+"http://packages.mtps.microsoft.com/"      by "DocumentsENG/"
+"../../../serviceapi/packages/"            by "DocumentsENG/"
+"https://offlinebook.mtps.microsoft.com/"  by "DocumentsENG/"
 
 Save HelpContentSetup.msha - it's ready.
 

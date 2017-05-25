@@ -1,0 +1,4 @@
+[autorun]
+shellexecute=MicrosoftSQLServer2016DocumentationReadme.htm
+icon=SQLServer2016.ico
+label=SQL_Server_2016_Documentation
