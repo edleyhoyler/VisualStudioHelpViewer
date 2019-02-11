@@ -1,0 +1,4 @@
+[autorun]
+shellexecute=MicrosoftVisualStudio2017DocumentationReadme.htm
+icon=vsmain.ico
+label=VS2017 Documentation
