@@ -25,5 +25,5 @@
 <br/>
 
 #### Beta Info:
-* Update Date: 11/02/2017 (dd/mm/yyyy)
+* Update Date: 11/02/2019 (dd/mm/yyyy)
 <br/>
