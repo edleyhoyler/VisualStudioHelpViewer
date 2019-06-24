@@ -1,0 +1,4 @@
+[autorun]
+shellexecute=Readme.htm
+icon=SSMS.ico
+label=SQLServerDocumentation

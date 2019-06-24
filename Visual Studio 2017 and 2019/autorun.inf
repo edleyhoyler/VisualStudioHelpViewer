@@ -1,4 +1,4 @@
 [autorun]
-shellexecute=VSReadme.htm
+shellexecute=Readme.htm
 icon=devenv.ico
-label=VSDocumentation
+label=HelpDocumentation

@@ -1,4 +1,3 @@
-Download all 178 links in the folder (08/02/2019 dd/mm/yyyy);
 https://offlinebook.mtps.microsoft.com/fb21b4a4-200e-43a6-8a5f-d2e48a403f5e/VisualStudio_2011_Branding_en-US(1bd6e667-f159-ac3b-f0a5-964c04ca5a13).cab
 https://offlinebook.mtps.microsoft.com/fb21b4a4-200e-43a6-8a5f-d2e48a403f5e/v2Windows_Development_Metro_Style_Developmnt_B972_Win_10_en-us_1(eb02618e-b431-da37-fcfb-b871c6dc0277).cab
 https://offlinebook.mtps.microsoft.com/fb21b4a4-200e-43a6-8a5f-d2e48a403f5e/v2Windows_Development_Metro_Style_Developmnt_B972_Win_10_en-us_2(16fe4a7a-0271-78ca-44a8-06a663f0a220).cab
@@ -165,15 +164,18 @@ https://offlinebook.mtps.microsoft.com/f2843474-65f8-4ddc-a93a-62c00457b3d4/vs20
 https://offlinebook.mtps.microsoft.com/00522c99-f420-42f5-8f13-2107c06dd501/v2UWP%20App%20Development%20(Conceptual)_en-us__0(11d0e5b6-6afa-a920-c0bd-d332368efd14).cab
 https://offlinebook.mtps.microsoft.com/5fb65b33-2d04-4b7f-a37d-26aa20181c87/v2Windows%20Driver%20Development_en-us__0(f039fee3-62d9-15da-ce97-387cddff3692).cab
 https://offlinebook.mtps.microsoft.com/5fb65b33-2d04-4b7f-a37d-26aa20181c87/v2Windows%20Driver%20Development_en-us__1(a8d9839d-b7da-352f-e889-753b5ddca40f).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__0(9da05d76-0829-4f55-8387-0ca21561d3c4).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__1(b97deccc-a20a-fc82-bd4f-8d3f7a3568a2).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__2(92476832-de0b-d1e5-e120-39f0baf001d6).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__3(568cce2c-d72c-287f-5575-4796a616d2e6).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__4(12cd014e-dce6-454b-7f19-504713ee4fc5).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__5(86347c08-a501-a076-8c50-43b168c5a732).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__6(1d8afb4d-e8c3-e4db-b201-b885bd490dcd).cab
-https://offlinebook.mtps.microsoft.com/b4716590-9efc-43f4-8d11-f50e6a5b6ad3/v2Programming%20reference%20for%20Windows%20API_en-us__7(269cb52d-2746-7efd-0ea4-d9cf6d2c934a).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__0(bed1871d-9b57-174c-fb53-29962c79f177).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__1(0b10ed85-1e5b-97af-cf83-77219a21e0f0).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__2(e9192d80-cb34-558f-952b-4094be5f5422).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__3(d662b351-2274-709d-df08-839c3924e158).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__4(bbe8334b-98a5-c1d0-3207-2e5be917e456).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__5(a7f44bc3-8c5c-684a-bc9c-915d82062a86).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__6(3ecb22ef-a483-525e-17f9-0fc58fcca777).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__7(9cd8092b-8a80-ee8d-4e9d-dc96adcd500c).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__8(4a059a9c-9bd4-2675-9436-d21d0cb793a1).cab
+https://offlinebook.mtps.microsoft.com/a48fc77c-e465-417d-8766-75a75fb2654d/v2Programming%20reference%20for%20Windows%20API_25063494_en-us__9(3545d162-732c-422d-1368-b586ab23f971).cab
 https://offlinebook.mtps.microsoft.com/d522ee00-180c-4b03-af1e-3187fbcd0450/v2SQL%20Server%202017%20Documentation_en-us__0(0fc2288e-88aa-cbc3-134e-0463afea7363).cab
 https://offlinebook.mtps.microsoft.com/0b71e87e-649b-4485-aa42-49b328166a76/v2Xamarin%20Mobile%20App%20Development_en-us__0(c28a81bd-db75-4b4d-761a-cc2d0f8f45b2).cab
 https://offlinebook.mtps.microsoft.com/0c691707-5264-46b4-83a8-2d695373d027/v2SQL%20Server%202016%20Documentation_en-us__0(4b7d7a2d-0403-aa99-b11f-a1b2093eff6a).cab
 https://offlinebook.mtps.microsoft.com/6d15881e-6bb9-46d5-80f5-e6a021df7c48/v2MSTest%20API%20Reference_en-us__0(66cf1149-1f71-a2f7-57b9-6137cba76d6a).cab
+Download all 180 links in the folder --> en-us (23/06/2019 dd/MM/yyyy);
