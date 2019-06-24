@@ -14,7 +14,7 @@
 * Microsoft Visual Studio 2012............................(Tested)
 * Microsoft Visual Studio 2013............................(Tested)
 * Microsoft Visual Studio 2015 and SSMS 17................(Tested)
-* Microsoft Visual Studio 2017, 2019 SSMS 18..............(Tested)
+* Microsoft Visual Studio 2017, 2019 SSMS and 18..........(Tested)
 * Microsoft SQL Server Management Studio 16...............(Tested)
 
 <br/>
