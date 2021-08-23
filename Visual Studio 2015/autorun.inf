@@ -1,4 +1,0 @@
-[autorun]
-shellexecute=MicrosoftVisualStudio2015DocumentationReadme.htm
-icon=vsmain.ico
-label=VS2015.3Documentation

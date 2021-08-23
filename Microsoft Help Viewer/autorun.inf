@@ -1,0 +1,4 @@
+[autorun]
+shellexecute=devenv.htm
+icon=devenv.ico
+label=Microsoft Help Viewer
