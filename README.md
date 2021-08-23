@@ -20,7 +20,6 @@
 #### Language List:
 
 * English
-* Brazilian Portuguese
 
 <br/>
 
